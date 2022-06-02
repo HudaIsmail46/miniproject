@@ -1,0 +1,32 @@
+.color{
+color: red;
+font-weight: bold;
+font-size: 20px;
+background-color: burlywood;
+}
+
+body {
+background-color:aquamarine;
+color: white;
+background-image: URL("/images/wallpaper.jpg");
+background-size: contain;
+background-position: top;
+padding: 5px;
+}
+
+p {
+font-family :'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-weight: bold !important;
+}
+
+#footer {
+    min-width: 100%;
+    background-color: darkred;
+}
+
+#footer p, #footer p a {
+    text-align: center;
+    background-color: rgb(255, 63, 201);
+    min-width: 100%;
+    color: rgb(255, 255, 255);
+}
